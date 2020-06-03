@@ -10,7 +10,7 @@ We can use the basic web-app archetype/template for creating the skeleton of the
 
 Another most important for running and testing your server, is to configure the Server.
 Here, I have used Apache Tomcat 8.5 (Web Server and partial Application server) to host my Application.
-Hosting port: 8888
+<b>Hosting port:</b> 8888
 Host: localhost or 127.0.0.1
  
 
